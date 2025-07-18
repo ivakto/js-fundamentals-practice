@@ -1,0 +1,17 @@
+Name: Ivan Ivanov
+From: Sofia
+Hobbies: Football, programming, reading books
+Why they chose SoftUni: Because they want to become a software developer
+Contact: ivan@example.com
+
+Name: Maria Petrova
+From: Plovdiv
+Hobbies: Drawing, traveling, music
+Why they chose SoftUni: Because they like programming and want to improve their skills
+Contact: maria@example.com
+
+Name: Georgi Stoyanov
+From: Varna
+Hobbies: Cycling, gaming, cooking
+Why they chose SoftUni: Because they want a career in IT
+Contact: georgi@example.com

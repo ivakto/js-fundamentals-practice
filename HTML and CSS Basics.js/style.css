@@ -1,0 +1,14 @@
+h1 {
+font-size: 42px;
+color: yellow;
+text-align: center;
+}
+
+p {
+padding-bottom: 15px;
+}
+
+.formatHeader {
+    text-align: center;
+}
+
